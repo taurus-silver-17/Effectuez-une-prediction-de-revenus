@@ -1,0 +1,151 @@
+,iso3,region,incgroup4,IGEincome_bof,IGEincome_bon
+0,AFG,South Asia,Low income,,0.436
+1,NPL,South Asia,Low income,0.436,0.436
+2,AGO,Sub-Saharan Africa,Upper middle income,,0.677
+3,BWA,Sub-Saharan Africa,Upper middle income,,0.677
+4,GAB,Sub-Saharan Africa,Upper middle income,,0.677
+5,MUS,Sub-Saharan Africa,Upper middle income,,0.677
+6,NAM,Sub-Saharan Africa,Upper middle income,,0.677
+7,ZAF,Sub-Saharan Africa,Upper middle income,0.677,0.677
+8,ALB,Europe & Central Asia,Upper middle income,0.8158745,0.47717102857142857
+9,AZE,Europe & Central Asia,Upper middle income,,0.47717102857142857
+10,BGR,Europe & Central Asia,Upper middle income,,0.47717102857142857
+11,BIH,Europe & Central Asia,Upper middle income,0.8272523,0.47717102857142857
+12,BLR,Europe & Central Asia,Upper middle income,0.3427382,0.47717102857142857
+13,GEO,Europe & Central Asia,Upper middle income,,0.47717102857142857
+14,KAZ,Europe & Central Asia,Upper middle income,0.23799520000000002,0.47717102857142857
+15,MKD,Europe & Central Asia,Upper middle income,0.41663779999999995,0.47717102857142857
+16,MNE,Europe & Central Asia,Upper middle income,,0.47717102857142857
+17,ROU,Europe & Central Asia,Upper middle income,0.3696992,0.47717102857142857
+18,RUS,Europe & Central Asia,Upper middle income,0.33,0.47717102857142857
+19,SRB,Europe & Central Asia,Upper middle income,,0.47717102857142857
+20,TUR,Europe & Central Asia,Upper middle income,,0.47717102857142857
+21,ARG,Latin America & Caribbean,Upper middle income,,0.87885232
+22,BRA,Latin America & Caribbean,Upper middle income,0.635,0.87885232
+23,COL,Latin America & Caribbean,Upper middle income,1.09544,0.87885232
+24,CRI,Latin America & Caribbean,Upper middle income,,0.87885232
+25,DOM,Latin America & Caribbean,Upper middle income,,0.87885232
+26,ECU,Latin America & Caribbean,Upper middle income,1.029957,0.87885232
+27,MEX,Latin America & Caribbean,Upper middle income,,0.87885232
+28,PAN,Latin America & Caribbean,Upper middle income,0.9668646000000001,0.87885232
+29,PER,Latin America & Caribbean,Upper middle income,0.667,0.87885232
+30,PRY,Latin America & Caribbean,Upper middle income,,0.87885232
+31,VEN,Latin America & Caribbean,Upper middle income,,0.87885232
+32,ARM,Europe & Central Asia,Lower middle income,,0.42481735
+33,KGZ,Europe & Central Asia,Lower middle income,0.3528712,0.42481735
+34,KSV,Europe & Central Asia,Lower middle income,,0.42481735
+35,MDA,Europe & Central Asia,Lower middle income,,0.42481735
+36,TJK,Europe & Central Asia,Lower middle income,,0.42481735
+37,UKR,Europe & Central Asia,Lower middle income,,0.42481735
+38,UZB,Europe & Central Asia,Lower middle income,0.4967635,0.42481735
+39,AUS,High income,High income,0.275,0.3461633375
+40,AUT,High income,High income,0.24526679999999998,0.3461633375
+41,BEL,High income,High income,0.183176,0.3461633375
+42,CAN,High income,High income,0.2693333333333334,0.3461633375
+43,CHE,High income,High income,0.2545943,0.3461633375
+44,CHL,High income,High income,0.57,0.3461633375
+45,CYP,High income,High income,0.342,0.3461633375
+46,CZE,High income,High income,0.434041,0.3461633375
+47,DEU,High income,High income,0.23790419999999998,0.3461633375
+48,DNK,High income,High income,0.1451456,0.3461633375
+49,ESP,High income,High income,0.4237571,0.3461633375
+50,EST,High income,High income,,0.3461633375
+51,FIN,High income,High income,0.11287570000000001,0.3461633375
+52,FRA,High income,High income,0.3571051,0.3461633375
+53,GBR,High income,High income,0.48097829999999997,0.3461633375
+54,GRC,High income,High income,0.3125777,0.3461633375
+55,HRV,High income,High income,0.46407740000000003,0.3461633375
+56,HUN,High income,High income,,0.3461633375
+57,IRL,High income,High income,0.2563986,0.3461633375
+58,ISL,High income,High income,,0.3461633375
+59,ISR,High income,High income,,0.3461633375
+60,ITA,High income,High income,0.48773710000000003,0.3461633375
+61,JPN,High income,High income,0.34,0.3461633375
+62,KOR,High income,High income,0.39399999999999996,0.3461633375
+63,LTU,High income,High income,,0.3461633375
+64,LUX,High income,High income,0.3807922,0.3461633375
+65,LVA,High income,High income,0.8899115,0.3461633375
+66,NLD,High income,High income,0.3039564,0.3461633375
+67,NOR,High income,High income,0.1986666666666667,0.3461633375
+68,NZL,High income,High income,0.29,0.3461633375
+69,POL,High income,High income,,0.3461633375
+70,PRT,High income,High income,0.2823753,0.3461633375
+71,SGP,High income,High income,0.26,0.3461633375
+72,SVK,High income,High income,0.5960784,0.3461633375
+73,SVN,High income,High income,0.3112125,0.3461633375
+74,SWE,High income,High income,0.2596,0.3461633375
+75,TWN,High income,High income,0.18100000000000002,0.3461633375
+76,URY,High income,High income,,0.3461633375
+77,USA,High income,High income,0.5376656,0.3461633375
+78,BEN,Sub-Saharan Africa,Low income,0.8551162,0.6736299500000001
+79,BFA,Sub-Saharan Africa,Low income,,0.6736299500000001
+80,CAF,Sub-Saharan Africa,Low income,,0.6736299500000001
+81,COD,Sub-Saharan Africa,Low income,0.7077025,0.6736299500000001
+82,COM,Sub-Saharan Africa,Low income,,0.6736299500000001
+83,ETH,Sub-Saharan Africa,Low income,0.35700000000000004,0.6736299500000001
+84,GIN,Sub-Saharan Africa,Low income,0.3428547,0.6736299500000001
+85,GNB,Sub-Saharan Africa,Low income,,0.6736299500000001
+86,LBR,Sub-Saharan Africa,Low income,,0.6736299500000001
+87,MDG,Sub-Saharan Africa,Low income,0.6896126,0.6736299500000001
+88,MLI,Sub-Saharan Africa,Low income,0.7139534000000001,0.6736299500000001
+89,MOZ,Sub-Saharan Africa,Low income,,0.6736299500000001
+90,MWI,Sub-Saharan Africa,Low income,0.7402018,0.6736299500000001
+91,NER,Sub-Saharan Africa,Low income,,0.6736299500000001
+92,RWA,Sub-Saharan Africa,Low income,0.7886906,0.6736299500000001
+93,SEN,Sub-Saharan Africa,Low income,,0.6736299500000001
+94,SLE,Sub-Saharan Africa,Low income,,0.6736299500000001
+95,SSD,Sub-Saharan Africa,Low income,,0.6736299500000001
+96,TCD,Sub-Saharan Africa,Low income,,0.6736299500000001
+97,TGO,Sub-Saharan Africa,Low income,,0.6736299500000001
+98,TZA,Sub-Saharan Africa,Low income,0.5119727,0.6736299500000001
+99,UGA,Sub-Saharan Africa,Low income,1.029195,0.6736299500000001
+100,BGD,South Asia,Lower middle income,0.5379999999999999,0.5281666666666666
+101,BTN,South Asia,Lower middle income,,0.5281666666666666
+102,IND,South Asia,Lower middle income,0.596,0.5281666666666666
+103,LKA,South Asia,Lower middle income,,0.5281666666666666
+104,PAK,South Asia,Lower middle income,0.4505,0.5281666666666666
+105,BOL,Latin America & Caribbean,Lower middle income,0.8662677,0.94073685
+106,GTM,Latin America & Caribbean,Lower middle income,1.015206,0.94073685
+107,HND,Latin America & Caribbean,Lower middle income,,0.94073685
+108,NIC,Latin America & Caribbean,Lower middle income,,0.94073685
+109,SLV,Latin America & Caribbean,Lower middle income,,0.94073685
+110,CHN,East Asia & Pacific,Upper middle income,0.39899999999999997,0.46950000000000003
+111,FJI,East Asia & Pacific,Upper middle income,,0.46950000000000003
+112,MYS,East Asia & Pacific,Upper middle income,0.54,0.46950000000000003
+113,THA,East Asia & Pacific,Upper middle income,,0.46950000000000003
+114,TUV,East Asia & Pacific,Upper middle income,,0.46950000000000003
+115,CIV,Sub-Saharan Africa,Lower middle income,,0.6299757333333332
+116,CMR,Sub-Saharan Africa,Lower middle income,,0.6299757333333332
+117,COG,Sub-Saharan Africa,Lower middle income,,0.6299757333333332
+118,CPV,Sub-Saharan Africa,Lower middle income,,0.6299757333333332
+119,GHA,Sub-Saharan Africa,Lower middle income,0.561605,0.6299757333333332
+120,KEN,Sub-Saharan Africa,Lower middle income,0.6703726999999999,0.6299757333333332
+121,LSO,Sub-Saharan Africa,Lower middle income,,0.6299757333333332
+122,MRT,Sub-Saharan Africa,Lower middle income,,0.6299757333333332
+123,NGA,Sub-Saharan Africa,Lower middle income,0.6579495,0.6299757333333332
+124,SDN,Sub-Saharan Africa,Lower middle income,,0.6299757333333332
+125,STP,Sub-Saharan Africa,Lower middle income,,0.6299757333333332
+126,SWZ,Sub-Saharan Africa,Lower middle income,,0.6299757333333332
+127,ZMB,Sub-Saharan Africa,Lower middle income,,0.6299757333333332
+128,DJI,Middle East & North Africa,Lower middle income,,0.9164609
+129,EGY,Middle East & North Africa,Lower middle income,0.9432052,0.9164609
+130,MAR,Middle East & North Africa,Lower middle income,0.9457445,0.9164609
+131,PSE,Middle East & North Africa,Lower middle income,,0.9164609
+132,TUN,Middle East & North Africa,Lower middle income,0.860433,0.9164609
+133,YEM,Middle East & North Africa,Lower middle income,,0.9164609
+134,IDN,East Asia & Pacific,Lower middle income,,0.5276651666666666
+135,KHM,East Asia & Pacific,Lower middle income,,0.5276651666666666
+136,KIR,East Asia & Pacific,Lower middle income,,0.5276651666666666
+137,LAO,East Asia & Pacific,Lower middle income,,0.5276651666666666
+138,MNG,East Asia & Pacific,Lower middle income,0.40100159999999996,0.5276651666666666
+139,PHL,East Asia & Pacific,Lower middle income,,0.5276651666666666
+140,PNG,East Asia & Pacific,Lower middle income,,0.5276651666666666
+141,TLS,East Asia & Pacific,Lower middle income,0.7019939000000001,0.5276651666666666
+142,TON,East Asia & Pacific,Lower middle income,,0.5276651666666666
+143,VNM,East Asia & Pacific,Lower middle income,0.48,0.5276651666666666
+144,VUT,East Asia & Pacific,Lower middle income,,0.5276651666666666
+145,IRN,Middle East & North Africa,Upper middle income,,0.5173975000000001
+146,IRQ,Middle East & North Africa,Upper middle income,,0.5173975000000001
+147,JOR,Middle East & North Africa,Upper middle income,0.5173975000000001,0.5173975000000001
+148,LBN,Middle East & North Africa,Upper middle income,,0.5173975000000001
+149,MDV,South Asia,Upper middle income,,0.4
